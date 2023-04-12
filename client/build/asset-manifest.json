@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0eb67b84.css",
+    "main.js": "/static/js/main.e5daba1f.js",
+    "static/media/outfitv.mp4": "/static/media/outfitv.d5c567eacf2fc46d1d9e.mp4",
+    "static/media/prod10.png": "/static/media/prod10.8854738c546f1ddc60fc.png",
+    "static/media/prod7.png": "/static/media/prod7.ba24580829d01b97c199.png",
+    "static/media/prod9.png": "/static/media/prod9.d7c3c9f1a36fb9d18a7a.png",
+    "static/media/prod8.png": "/static/media/prod8.567bf548bc619d55e355.png",
+    "static/media/prod5.png": "/static/media/prod5.6d5514e7219aef84bf6e.png",
+    "static/media/prod4.png": "/static/media/prod4.291c0025083bbbfe53ba.png",
+    "static/media/banners2.jpg": "/static/media/banners2.e69e268644bc5cc45e14.jpg",
+    "static/media/prod1.png": "/static/media/prod1.340626cd20dd0b3a00dd.png",
+    "static/media/prod6.png": "/static/media/prod6.af0135757d9a7769ee34.png",
+    "static/media/prod3.png": "/static/media/prod3.dd540d957fd5eec9c38e.png",
+    "static/media/prod11.png": "/static/media/prod11.18c75f8fc16a38113f5a.png",
+    "static/media/prod2.png": "/static/media/prod2.e1cc68bed057a03f9241.png",
+    "static/media/video_banner.webp": "/static/media/video_banner.7c9d38d9794b133cc689.webp",
+    "static/media/newsletter-bg.jpeg": "/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/login3.jpg": "/static/media/login3.535a1fb8011dca3c5b82.jpg",
+    "static/media/outfitv_logo_bg.png": "/static/media/outfitv_logo_bg.c599e71a56bd26b48fe4.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/girl.png": "/static/media/girl.7262bf29ab653e0d8e3f.png",
+    "static/media/archaeologist.png": "/static/media/archaeologist.e7455dad31d8d7956ca5.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.0eb67b84.css.map": "/static/css/main.0eb67b84.css.map",
+    "main.e5daba1f.js.map": "/static/js/main.e5daba1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb67b84.css",
+    "static/js/main.e5daba1f.js"
+  ]
+}
